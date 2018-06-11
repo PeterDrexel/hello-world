@@ -1,0 +1,2 @@
+C:\Python27\python.exe C:\Python27\Tools\scripts\2to3.py -w V:\Geodaten\_Allgemein\QGIS\QGIS2_PLUGINS_LVA\VogisSuche\vogis_suche.py
+C:\Python27\python.exe C:\Python27\Tools\scripts\2to3.py -w V:\Geodaten\_Allgemein\QGIS\QGIS2_PLUGINS_LVA\VogisSuche\vogis_suche_dockwidget.py
